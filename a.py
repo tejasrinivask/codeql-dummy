@@ -1,4 +1,5 @@
 import os
+from b import *
 
 
 f = 'a.ini'
